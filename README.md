@@ -1,2 +1,2 @@
 # My-project
-Juego Snake. Alumno Jesus ;ario Gastélum Rochín. EXP 04311082
+Juego Snake. Alumno Jesus Mario Gastélum Rochín. EXP 04311082
